@@ -32,7 +32,16 @@ body{
 }
 
 .left-login > h1 {
+  /* font-size: 3vw; */
   color: #77ffc0;
+}
+
+.left-ltitle{
+  color: red;
+}
+
+.left-login-img{
+  width: 35vw;
 }
 
 .right-login {
@@ -46,7 +55,7 @@ body{
 .card-login {
   /* box-sizing: border-box; */
   width: 60%;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   flex-direction: column;
